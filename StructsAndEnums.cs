@@ -1,10 +1,10 @@
 ﻿using System.Drawing;
 
 public struct FBAdSize {
-    SizeF size;
+    public SizeF size;
 }
 
 public struct FBAdStarRating {
-    float value;
-    int scale;
+    public float value;
+    public int scale;
 }
